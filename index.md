@@ -6,8 +6,9 @@ LifeLens ("we," "us," or "our") is committed to protecting your privacy. This po
 
 Information We Collect:
 
-Phone number — collected when you create an account, used solely for authentication via Clerk.
-Photos — taken within the app and saved to your device's photo library. We do not upload or store your photos on our servers.
+Phone number - collected when you create an account, used solely for authentication via Clerk.
+
+Photos - taken within the app and saved to your device's photo library. We do not upload or store your photos on our servers.
 
 How We Use Your Information:
 
