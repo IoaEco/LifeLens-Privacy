@@ -1,12 +1,12 @@
 Last updated: May 6, 2026
 
-Privacy Policy for LifeLens
+LifeLens Privacy Policy
 
 LifeLens ("we," "us," or "our") is committed to protecting your privacy. This policy explains how we collect, use, and protect your information when you use the LifeLens app.
 
 Information We Collect:
 
-Phone number - collected when you create an account, used solely for authentication via Clerk.
+Phone number - collected when you create an account, used solely for authentication via Firebase.
 
 Photos - taken within the app and saved to your device's photo library. We do not upload or store your photos on our servers.
 
@@ -17,7 +17,8 @@ Photos remain on your local device. They are saved on iCloud only if **you** cho
 
 Third Party Services:
 
-Clerk (clerk.com) — handles phone authentication. See their privacy policy at clerk.com/privacy.
+Firebase (firebase.google.com) — handles secure phone authentication. See Google's privacy policy at policies.google.com/privacy.
+
 Anthropic (anthropic.com) — processes photos temporarily for AI measurement estimates via their API. Photos and data sent through the API are automatically deleted within 7 days and are never used for model training. See Anthropic's privacy policy at anthropic.com/privacy.
 
 Data Storage:
