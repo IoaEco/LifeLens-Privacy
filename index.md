@@ -1,4 +1,4 @@
-Last updated: May 6, 2026
+Last updated: May 8, 2026
 
 LifeLens Privacy Policy
 
