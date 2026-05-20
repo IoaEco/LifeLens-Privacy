@@ -1,2 +1,2 @@
-# LifeLens-Privacy
-LifeLens Privacy Policy
+# LumenLens-Privacy
+LumenLens Privacy Policy
