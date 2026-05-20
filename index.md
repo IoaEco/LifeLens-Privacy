@@ -27,11 +27,11 @@ Your photos are stored locally on your device and backed up to iCloud only if **
 
 Data Deletion:
 
-You can delete individual tracks and their associated app data at any time using the delete button within the app. Deleting the app removes all locally stored data. Photos saved to your iPhone photo library will remain there unless deleted by **you**. To request deletion of your phone number from our authentication system, contact us at privacy@ioaeco.com and we will promptly remove it.
+You can delete individual tracks and their associated app data at any time using the delete button within the app. Deleting the app removes all locally stored data. Photos saved to your iPhone photo library will remain there unless deleted by **you**. To request deletion of your phone number from our authentication system, contact us at ioanniseco5@gmail.com and we will promptly remove it.
 
 Children's Privacy:
 
-LifeLens is designed for general audiences and is not directed specifically at children under 13. We do not knowingly collect personal information from children under 13 without parental consent. If you believe a child under 13 has provided us with personal information without parental consent, please contact us at privacy@ioaeco.com and we will promptly delete that information.
+LifeLens is designed for general audiences and is not directed specifically at children under 13. We do not knowingly collect personal information from children under 13 without parental consent. If you believe a child under 13 has provided us with personal information without parental consent, please contact us at ioanniseco5@gmail.com and we will promptly delete that information.
 
 Changes to This Policy:
 
@@ -39,4 +39,4 @@ We may periodically update this policy. Continued use of the app after changes c
 
 Contact Us:
 
-If you have questions about this privacy policy, contact us at privacy@ioaeco.com.
+If you have questions about this privacy policy, contact us at ioanniseco5@gmail.com.
